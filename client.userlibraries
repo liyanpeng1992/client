@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="hessian">
+    <archive path="C:/workspace/idea/client/lib/hessian.jar" />
+  </library>
+  <library name="dataService" />
+  <library name="dataServer">
+    <archive path="C:/workspace/idea/client/lib/dataServer.jar" />
+  </library>
+  <library name="gson-2.8.5">
+    <archive path="C:/workspace/idea/client/lib/gson-2.8.5.jar" />
+  </library>
+  <library name="Bundled Protobuf Distribution" />
+</eclipse-userlibraries>
+
